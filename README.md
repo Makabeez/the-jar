@@ -79,3 +79,15 @@ React 19, TanStack Start, Tailwind v4, `@solana/web3.js`, Solana Wallet Adapter 
 - [Cookieswap](https://cookieswap.io)
 - [Cookiebox](https://cookiebox.app)
 - [Telegram](https://t.me/TheCookieNetChain)
+
+## Live on Cookie Chain
+
+All three inscription types, signed in Nightly on mainnet:
+
+| Type | Transaction |
+| --- | --- |
+| Fortune | [2mWvkMBY…MTdk7d](https://cookiescan.io/tx/2mWvkMBYDyxXfST2fvfJ19SXmmCMKCgLm5KaBhsYSSEuZaJFFCoAWRateHZQuMS1oeJW9P86thAmxwg682MTdk7d) |
+| Crumb | [4M8qMwU3…1qFA4k](https://cookiescan.io/tx/4M8qMwU33z4iLoJpVyhvsTga4Q4nxbZyp3Q8GeqJqevnBtU8bdfKTFxWrQh5UzwXQ4N3D3R9e3bsW5nKCS1qFA4k) |
+| Pulse | [VyMLrePy…kyis6](https://cookiescan.io/tx/VyMLrePywLZ5JQmM69riJm4NgKRYVcNpzJeNc6uAocdFoAu3fhaP5htVq4Vzk73tnvnY3sK3SGYZrRsKBHkyis6) |
+
+Each is a 1-lamport self-transfer plus an SPL memo with a `jar:v1|` payload, readable on Cookiescan and in the app's culture radar.
