@@ -5,7 +5,7 @@ An on-chain fortune jar for **Cookie Chain** — a community-run SVM.
 Ask an oracle, inscribe the answer as an SPL memo, drop crumbs, send a pulse, and watch live chain culture stream in from the memo program. Wallet signatures happen in **Nightly** (Wallet Standard). Reads hit `rpc.cookiescan.io` and the Cookie DAS at `api.cookiescan.io`.
 
 - **Source:** [github.com/Makabeez/the-jar](https://github.com/Makabeez/the-jar)
-- **Live app:** copy the public `*.grok.me` URL from the Grok **Publish** sheet (Access: anyone with the link / whole internet)
+- **Live app:** [the-jar-rho.vercel.app](https://the-jar-rho.vercel.app)
 
 ## What it does
 
